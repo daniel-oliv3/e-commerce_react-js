@@ -73,6 +73,8 @@ yarn start
 ```
 - Colar em `index.css`
 
+**React Icons**
+- Site: https://react-icons.github.io/react-icons/
 
 
 
@@ -89,8 +91,7 @@ yarn start
 
 
 
-
-
+**Projeto**: https://e-commercer-reactjs.netlify.app/
 
 
 ##
