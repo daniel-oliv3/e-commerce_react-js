@@ -9,6 +9,7 @@
     display: flex;
     align-items: center;
     flex: 1;
+    gap: 1rem;
 }
 
 .logo>img {
@@ -49,6 +50,11 @@
     padding: 0.5rem;
 }
 
+.cart {
+    width: 1.5rem;
+    height: 1.5rem;
+    cursor: pointer;
+}
 
 
 
