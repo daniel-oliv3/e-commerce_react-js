@@ -10,7 +10,7 @@
 - Swiper JS
 - Framer Motion
 - Many Other
-- Component based approach
+- Component Based Approach
 - UseState Hook
 - Deployment
 
@@ -35,7 +35,7 @@ React.js, Node.js, JavaScript.
 - Site: https://code.visualstudio.com/download
 
 
-
+### Criação do projeto
 
 - Instalar o yarn globalmente
 ```
@@ -56,6 +56,12 @@ npx create-react-app my-app
 ```
 yarn
 ```
+
+- Roda o projeto
+```
+yarn start
+```
+- Localhost: http://localhost:3000/
 
 
 
