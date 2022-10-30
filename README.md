@@ -63,7 +63,15 @@ yarn start
 ```
 - Localhost: http://localhost:3000/
 
+**Fonts**
+- Fonte Poppins
+- Site: https://fonts.google.com/
 
+- Peso das fontes: 400 Regular, 500 Medium, 600 SimiBold, 700 Bold.
+```css
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+```
+- Colar em `index.css`
 
 
 
