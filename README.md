@@ -1,5 +1,5 @@
 ##
-### E-commerce
+### E-Commerce
 ##
 
 
@@ -25,6 +25,9 @@ React.js, Node.js, JavaScript.
 **React.js**
 - Site: https://pt-br.reactjs.org/
 
+**Yarn**
+- Site: https://yarnpkg.com/
+
 
 ### Ferramentas do programador.
 
@@ -34,10 +37,46 @@ React.js, Node.js, JavaScript.
 
 
 
-
+- Instalar o yarn globalmente
+```
+npm install --global yarn
 ```
 
+- Verifica a versão do yarn instalada
 ```
+yarn --version
+```
+
+- Crie um projeto React (Create React App) 
+```
+npx create-react-app my-app
+```
+
+- Instalar o Yarn no projeto
+```
+yarn
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ##
