@@ -8,6 +8,7 @@
 .logo {
     display: flex;
     align-items: center;
+    flex: 1;
 }
 
 .logo>img {
@@ -19,8 +20,34 @@
     font-weight: 600;
 }
 
+.right {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+    gap: 2rem;
+    font-weight: 500;
+    list-style: none;
+}
+
+.menu>li:hover {
+    color: #fe956f;
+    cursor: pointer;
+}
 
 
+.search {
+    width: 7rem;
+    outline: none;
+    height: 30%;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem;
+}
 
 
 
