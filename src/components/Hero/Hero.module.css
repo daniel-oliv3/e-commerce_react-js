@@ -1,0 +1,59 @@
+.container {
+    padding: 0rem 2rem;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+}
+
+.wrapper {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    position: relative;
+}
+
+
+.wrapper>img {
+    width: 30rem;
+    position: relative;
+    bottom: 0;
+}
+
+
+
+
+
+/* */
+.h_slides {
+    display: grid;
+    grid-template: 1fr 1fr;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

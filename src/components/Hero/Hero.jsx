@@ -1,7 +1,7 @@
 import React from "react";
 import css from './Hero.module.css';
 import HeroImg from '../../assets/hero.png';
-import {RiShoppingBagFill, BsRightArrow} from 'react-icons/ri';
+import {RiShoppingBagFill} from 'react-icons/ri';
 import {BsArrowRight} from 'react-icons/bs';
 
 const Hero = () => {
@@ -38,7 +38,17 @@ const Hero = () => {
 
 
             {/* Right Side */}
+            <div className={css.h_sides}>
+                <div className={css.traffic}>
+                    <span>1.5m</span>
+                    <span>Tráfego mensal</span>
+                </div>
 
+                <div className={css.customers}>
+                    <span>100k</span>
+                    <span>Clientes felizes</span>
+                </div>
+            </div>
         </div>
     );
 }
