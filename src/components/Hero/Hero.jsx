@@ -11,7 +11,7 @@ const Hero = () => {
 
             {/* Left Side */}
             <div className={css.h_sides}>
-                <span>Creme de proteção da pele</span>
+                <span className={css.text1}>Creme de proteção da pele</span>
 
                 <div className={css.text2}>
                     <span>Coleção da moda</span>
